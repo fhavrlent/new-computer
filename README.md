@@ -530,7 +530,7 @@ Unchecked:
 	* Keychain
 	* Find My Mac
 
-*Internet Accounts*
+**Internet Accounts**
 
 * Add Google account
 
@@ -538,7 +538,7 @@ Unchecked:
 
 * Ensure everything is unchecked
 
-*Touch ID*
+**Touch ID**
 
 * Add fingers
 * Check all
@@ -547,7 +547,7 @@ Unchecked:
 
 * make sure guest account is turned off
 
-*Siri*
+**Siri**
 
 * Disable
 
